@@ -38,6 +38,12 @@ ff02::3 ip6-allhosts
 0.0.0.0 youtube.l.google.com
 0.0.0.0 googlevideo.com
 0.0.0.0 i.google.com
+0.0.0.0 restrictmoderate.youtube.com
+0.0.0.0 www.youtube-nocookie.com
+0.0.0.0 youtube.googleapis.com
+0.0.0.0 restrict.youtube.com
+0.0.0.0 youtubei.googleapis.com
+0.0.0.0 m.youtube.com
 
 # End
 
