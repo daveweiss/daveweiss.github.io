@@ -2,9 +2,9 @@
 #
 # Hat tip to https://github.com/StevenBlack/hosts for format used below
 #
-# Fetch the latest version of this file: https://raw.githubusercontent.com/fdsjoijfdwoq/yt-block/master/blocklist.txt
-# Project home page: https://github.com/fdsjoijfdwoq/yt-block
-# Project releases: https://github.com/fdsjoijfdwoq/yt-block/releases
+# Fetch the latest version of this file: https://raw.githubusercontent.com/fdsjoijfdwoq/whole-site-blocks/master/blocklist.txt
+# Project home page: https://github.com/fdsjoijfdwoq/whole-site-blocks
+# Project releases: https://github.com/fdsjoijfdwoq/whole-site-blocks/releases
 #
 # ===============================================================
 
